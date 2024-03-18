@@ -2,7 +2,7 @@ import animals.Dog;
 import people.Person;
 import people.Veterinarian;
 
-public class Main {
+public class Javise {
     public static void main(String[] args) {
         // 创建一个人类对象
         Person person = new Person("Alice");
